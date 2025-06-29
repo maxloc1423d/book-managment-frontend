@@ -1,0 +1,44 @@
+{
+  "books": [
+    {
+      "id": "44d2",
+      "title": "Rich Dad Poor Dad",
+      "author": "prabhakar Deshmukh",
+      "publisher": "Purustom Shinde",
+      "publishedDate": "2025-06-27",
+      "email": "prabhakarpatange8@gmail.com",
+      "age": "21",
+      "description": "this is osm book it read carerfully and learn from it"
+    },
+    {
+      "id": "c9c3",
+      "title": "kavi kalesh",
+      "author": "amit thakray",
+      "publisher": "Purustom Shinde",
+      "publishedDate": "2025-06-28",
+      "email": "arjun.verma@novaspherebooks.com",
+      "age": "47",
+      "description": "A thrilling journey through logic and imagination, The Code Alchemist follows a gifted programmer who discovers a hidden realm where algorithms come alive. As he navigates real-world coding challenges, he uncovers a deeper mystery tied to his past—and the future of human-AI collaboration"
+    },
+    {
+      "id": "d387",
+      "title": "abc",
+      "author": "abcsd",
+      "publisher": "plksgd",
+      "publishedDate": "2025-06-23",
+      "email": "prabhakarpatange8@gmail.com",
+      "age": "16",
+      "description": "A thrilling journey through logic and imagination, The Code Alchemist follows a gifted programmer who discovers a hidden realm where algorithms come alive. As he navigates real-world coding challenges, he uncovers a deeper mystery tied to his past—and the future of human-AI collaboration"
+    },
+    {
+      "id": "3270",
+      "title": "oppshsh",
+      "author": "nshvjskvkshd",
+      "publisher": "swhfihjh",
+      "publishedDate": "2025-06-29",
+      "email": "prabhakarpatange8@gmail.com",
+      "age": "78",
+      "description": "Established on 28th August 2003, this library was founded by Mr. Prabhakar Vasantrao Patange with a vision to cultivate a love for reading and lifelong learning in the heart of Shree Nagar, Nanded. Since its inception, the library has served as a community hub for knowledge seekers, offering access to a diverse range of books and educational resources. Built on the values of accessibility and intellectual growth, it continues to inspire generations of readers, students, and curious minds in the region.  Would you like to extend this into a mission statement or add details like available sections or reading programs? I'd be glad to help craft it!"
+    }
+  ]
+}
